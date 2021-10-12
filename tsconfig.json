@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js", //pasta para converção
+        "target": "ES6",
+        "noEmitOnError": true
+
+        
+    },
+    "include": ["app/**/*"]
+}
